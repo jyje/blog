@@ -14,16 +14,6 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <hr />
-        <script src="https://utteranc.es/client.js"
-          repo="jyje/docs"
-          issue-term="url"
-          label="💬 comment"
-          theme="github-light"
-          crossorigin="anonymous"
-          async>
-        </script>
-        <hr />
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://jyje.live">jyje.live</a>

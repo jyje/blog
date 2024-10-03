@@ -65,15 +65,16 @@ export default {
     error: {
       title: "Not Found",
       notFound: "페이지가 존재하지 않거나 비공개 설정이 되어 있습니다.",
+      home: "홈페이지로 돌아가기",
     },
     folderContent: {
       folder: "폴더",
-      itemsUnderFolder: ({ count }) => `${count}건의 페이지`,
+      itemsUnderFolder: ({ count }) => `${count}건의 항목`,
     },
     tagContent: {
       tag: "태그",
       tagIndex: "태그 목록",
-      itemsUnderTag: ({ count }) => `${count}건의 페이지`,
+      itemsUnderTag: ({ count }) => `${count}건의 항목`,
       showingFirst: ({ count }) => `처음 ${count}개의 태그`,
       totalTags: ({ count }) => `총 ${count}개의 태그를 찾았습니다.`,
     },
