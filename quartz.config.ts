@@ -9,13 +9,13 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 docs.jyje.live",
-    pageTitleSuffix: "",
+    pageTitleSuffix: " | docs.jyje.live",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    locale: "en-US",
+    locale: "ko-KR",
     baseUrl: "docs.jyje.live",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
