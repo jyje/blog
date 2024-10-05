@@ -12,4 +12,4 @@ aliases:
 
 
 # Origin
-- 그리스어로 선장(Captain) 혹은 조타수(Steersman)를 의미합니다.
+- 그리스어로 선장(Captain) 혹은 조타수(Steersman)를 의미한다.
