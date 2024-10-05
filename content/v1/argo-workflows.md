@@ -12,7 +12,7 @@ aliases:
 
 
 # Origin
-- 워크플로우의 이름인 아르고의 어원은 [[argo-proj#Origin]]에서 찾을 수 있다.
+- 워크플로우의 이름인 아르고의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
 
 
 # Objectives 

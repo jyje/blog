@@ -12,7 +12,7 @@ aliases:
 
 
 # Origin
-- 아르고 롤아웃의 어원은 [[argo-proj#Origin]]에서 찾을 수 있다.
+- 아르고 롤아웃의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
 
 
 # Objectives

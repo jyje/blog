@@ -12,5 +12,5 @@ aliases:
 
 
 # Origin
-- 애플리케이션의 이름인 아르고의 어원은 [[argo-proj#Origin]]에서 찾을 수 있다.
+- 애플리케이션의 이름인 아르고의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
 

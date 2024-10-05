@@ -33,7 +33,7 @@ aliases:
 
 # Introduction
 - 공식 페이지: https://argoproj.github.io
-- 마스코트: 그리스 신화에서 영감을 얻은 **문어** ([[argo-proj#Origin]] 참조)
+- 마스코트: 그리스 신화에서 영감을 얻은 **문어** ([[argo-proj#Origin|아르고 프로젝트]] 참조)
 	- 하지만 우주를 여행하는 **우주 문어**의 느낌이 난다.
     ![argo|400](https://argoproj.github.io/static/7e59aa017f9653a5d9d22e86fe7f83bb/93d75/gitops-cd.png)
 
