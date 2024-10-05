@@ -6,7 +6,7 @@ tags:
 aliases:
   - Argo Project Labs
 ---
-# Defenition
+# Definition
 - [[Argo Project|아르고 프로젝트]]의 실험적인 프로젝트들
 
 

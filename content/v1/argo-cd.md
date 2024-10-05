@@ -7,7 +7,7 @@ aliases:
   - Argo CD
   - 아르고 CD
 ---
-# Defenition
+# Definition
 - [[k8s|쿠버네티스]]의 어플리케이션 배포 엔진
 
 

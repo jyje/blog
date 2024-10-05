@@ -7,7 +7,7 @@ aliases:
   - Argo Project
   - 아르고 프로젝트
 ---
-# Defenition
+# Definition
 - [Intuit](https://www.intuit.com/careers/teams/software-engineering), [Akuity](https://akuity.io)에서 개발한 [[k8s|쿠버네티스]] 확장 오픈소스 프로젝트
 
 

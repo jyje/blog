@@ -7,7 +7,7 @@ aliases:
   - Argo Events
   - 아르고 이벤트
 ---
-# Defenition
+# Definition
 - [[argo-workflows|아르고 워크플로우]]의 이벤트 관리 엔진
 
 

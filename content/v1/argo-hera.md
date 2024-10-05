@@ -10,7 +10,7 @@ aliases:
   - argoproj-labs/hera
   - 'Hera: Argo Workflows SDK'
 ---
-# Defenition
+# Definition
 - Python에서 [[argo-workflows]]를 사용하기 위한 SDK
 
 

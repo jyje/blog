@@ -7,7 +7,7 @@ aliases:
   - Argo Workflows
   - 아르고 워크플로우
 ---
-# Defenition
+# Definition
 - [[k8s|쿠버네티스]]의 워크플로우 엔진
 
 

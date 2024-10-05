@@ -7,7 +7,7 @@ aliases:
   - Argo Rollouts
   - 아르고 롤아웃
 ---
-# Defenition
+# Definition
 - [[k8s|쿠버네티스]]의 배포 전략을 관리하는 도구
 
 
