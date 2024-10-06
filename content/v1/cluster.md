@@ -6,7 +6,7 @@ aliases:
   - Cluster
   - 클러스터
 ---
-# Defenition
+# Definition
 - 같은 목적을 위해 연결된 컴퓨팅 도구들의 집합
 
 
