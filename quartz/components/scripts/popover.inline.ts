@@ -1,5 +1,6 @@
 import { computePosition, flip, inline, shift } from "@floating-ui/dom"
 import { normalizeRelativeURLs } from "../../util/path"
+import { fetchCanonical } from "./util"
 
 const p = new DOMParser()
 async function mouseEnterHandler(
@@ -37,11 +38,9 @@ async function mouseEnterHandler(
   targetUrl.hash = ""
   targetUrl.search = ""
 
-  const contents = await fetch(`${targetUrl}`)
-    .then((res) => res.text())
-    .catch((err) => {
-      console.error(err)
-    })
+  const response = await fetchCanonical(targetUrl).catch((err) => {
+    console.error(err)
+  })
 
   // bailout if another popover exists
   if (hasAlreadyBeenFetched()) {
