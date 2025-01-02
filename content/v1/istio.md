@@ -9,12 +9,23 @@ aliases:
 ---
 
 # Name
-- Istio
-- 이스티오
+- Istio; 이스티오
+
 
 # Definition
-- 서비스 메시(Service Mesh) 구현체로, 마이크로서비스 간의 통신을 관리하고 제어하는 오픈소스 플랫폼
-- Lyft, Google, IBM이 공동으로 개발
+- 마이크로서비스의 통신을 관리하고 제어하는 서비스 메시(Service Mesh) 구현체
+
+
+# About
+- 공식 웹사이트: https://istio.io
+- 깃헙 프로젝트: https://github.com/istio/istio
+- 라이선스: Apache 2.0
+- 초기 개발: Lyft, Google, IBM
+- 소속 기관: CNCF
+- 기능
+	- [[k8s|쿠버네티스]] 서비스 간 통신을 관리하고 제어하는 데 필요한 기능을 제공
+	- 트래픽 관리, 보안, 관찰 가능성, 정책 관리 등
+
 
 # Key Features
 - 트래픽 관리: 서비스 간 트래픽 라우팅, 로드밸런싱, 서킷브레이커 등 제공
@@ -22,12 +33,14 @@ aliases:
 - 관찰 가능성: 분산 추적, 모니터링, 로깅 기능 제공
 - 정책 관리: 서비스 간 통신에 대한 정책 설정 및 적용
 
+
 # Architecture
-## 핵심 컴포넌트
+## Components
 - Control Plane
   - istiod: 서비스 디스커버리, 구성 관리, 인증서 관리
 - Data Plane
   - Envoy 프록시: 사이드카 형태로 각 서비스에 주입되어 통신 제어
+
 
 # Use Cases
 - 마이크로서비스 아키텍처의 복잡성 관리
