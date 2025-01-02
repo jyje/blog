@@ -9,7 +9,7 @@ interface Options {
 
 export default ((opts?: Options) => {
   const Footer: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
-    const beginYear = 2022
+    const beginYear = 2024
     const year = new Date().getFullYear()
     const links = opts?.links ?? []
     return (
