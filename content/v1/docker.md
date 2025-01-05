@@ -2,6 +2,8 @@
 title: Docker
 draft: false
 tags:
+  - devops
+  - infra-base
 aliases:
   - Docker
   - 도커

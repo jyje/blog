@@ -2,6 +2,8 @@
 title: Cluster
 draft: false
 tags:
+  - devops
+  - infra-base
 aliases:
   - Cluster
   - 클러스터

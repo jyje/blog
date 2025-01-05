@@ -2,6 +2,7 @@
 title: DevOps
 draft: false
 tags:
+  - devops
 aliases:
   - DevOps
   - 데브옵스

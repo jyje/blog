@@ -1,7 +1,8 @@
 ---
 title: "Author: Jeayoung Jeon"
 draft: false
-tags: []
+tags:
+  - author
 aliases:
   - "Author: Jeayoung Jeon"
   - Jeayoung Jeon

@@ -2,6 +2,8 @@
 title: Container
 draft: false
 tags:
+  - devops
+  - infra-base
 aliases:
   - Container
   - 컨테이너
