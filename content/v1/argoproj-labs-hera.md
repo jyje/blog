@@ -1,5 +1,5 @@
 ---
-title: "Hera: Argo SDK"
+title: "Argo: Hera SDK"
 draft: false
 tags:
   - argoproj-labs
@@ -8,14 +8,14 @@ tags:
   - argo-workflows
   - argo-events
 aliases:
-  - "Hera: Argo SDK"
+  - "Argo: Hera SDK"
   - Argo Hera
   - 아르고 헤라
   - 헤라
   - argoproj-labs/hera
 ---
 > [!Info]
-> 이 사이트에서 언급하는 'Hera'와 '헤라'는 주로 '[[argoproj-labs-hera|Hera: Argo SDK]]'를 의미한다.
+> 이 사이트에서 언급하는 'Hera'와 '헤라'는 주로 '[[argoproj-labs-hera|Argo: Hera SDK]]'를 의미한다.
 
 # Name
 - Argo Hera; 아르고 헤라
