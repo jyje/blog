@@ -7,12 +7,15 @@ aliases:
   - Argo Workflows
   - 아르고 워크플로우
 ---
+# Name
+- Argo Workflows; 아르고 워크플로우
+
+## Origin
+- 애플리케이션의 이름인 아르고의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
+
+
 # Definition
 - [[k8s|쿠버네티스]]의 워크플로우 엔진
-
-
-# Origin
-- 워크플로우의 이름인 아르고의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
 
 
 # Objectives 

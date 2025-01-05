@@ -7,12 +7,15 @@ aliases:
   - Argo Rollouts
   - 아르고 롤아웃
 ---
+# Name
+- Argo Rollouts; 아르고 롤아웃
+
+## Origin
+- 애플리케이션의 이름인 아르고의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
+
+
 # Definition
 - [[k8s|쿠버네티스]]의 배포 전략을 관리하는 도구
-
-
-# Origin
-- 아르고 롤아웃의 어원은 [[argo-proj#Origin|아르고 프로젝트]]에서 찾을 수 있다.
 
 
 # Objectives

@@ -7,13 +7,10 @@ aliases:
   - Argo Project
   - 아르고 프로젝트
 ---
-# Definition
-- [Intuit](https://www.intuit.com/careers/teams/software-engineering), [Akuity](https://akuity.io)에서 개발한 [[k8s|쿠버네티스]] 확장 오픈소스 프로젝트
+# Name
+- Argo Project; 아르고 프로젝트
 
-
-
-
-# Origin
+## Origin
 아르고 프로젝트의 어원은 [프로젝트 창시자의 인터뷰](https://www.decibel.vc/articles/akuity-setting-sail-with-argo-for-every-cloud-native-journey)에서 찾아볼 수 있다:
 
 > [!quote] Jesse Suen - Co-creator of Akuity Inc.
@@ -29,9 +26,11 @@ aliases:
 - 이 프로젝트는 그리스 신화와 심해 문어에 영감을 받아, 쿠버네티스를 위한 여러 업무를 하는 프로젝트로 **'아르고 (Argo)'** 라는 이름을 정하였다고 볼 수 있다.
 
 
+# Definition
+- [Intuit](https://www.intuit.com/careers/teams/software-engineering), [Akuity](https://akuity.io)에서 개발한 [[k8s|쿠버네티스]] 확장 오픈소스 프로젝트
 
 
-# Introduction
+# About
 - 공식 페이지: https://argoproj.github.io
 - 마스코트: 그리스 신화에서 영감을 얻은 **문어** ([[argo-proj#Origin|아르고 프로젝트]] 참조)
 	- 하지만 우주를 여행하는 **우주 문어**의 느낌이 난다.
