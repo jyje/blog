@@ -29,5 +29,5 @@ aliases:
 # 스타 히스토리
 #star-history
 
-[[#Example]] 에 나온 프로젝트들의 Github 스타 히스토리를 보면 꾸준히 성장하는 걸 볼 수 있다:
+[Github 스타 히스토리](https://star-history.com/#argoproj-labs/argocd-image-updater)를 통해 선형적으로 꾸준히 성장하는 걸 볼 수있다:
 [![Star History Chart for 'Argo CD Image Updater'](https://api.star-history.com/svg?repos=argoproj-labs/argocd-image-updater)](https://star-history.com/#argoproj-labs/argocd-image-updater)
