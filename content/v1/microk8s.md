@@ -2,6 +2,7 @@
 title: MicroK8s
 draft: false
 tags:
+  - k8s
 aliases:
   - MicroK8s
   - microk8s

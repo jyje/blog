@@ -2,6 +2,8 @@
 title: Kubespray
 draft: false
 tags:
+  - devops
+  - k8s
 aliases:
   - Kubespray
   - 쿠베스프레이

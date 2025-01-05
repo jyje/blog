@@ -3,6 +3,7 @@ title: Kubernetes
 draft: false
 tags:
   - devops
+  - k8s
 aliases:
   - Kubernetes
   - k8s

@@ -2,6 +2,8 @@
 title: "Kubernetes: Pod"
 draft: false
 tags:
+  - devops
+  - k8s
 aliases:
   - Pod
   - 파드
