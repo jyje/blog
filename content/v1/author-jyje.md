@@ -14,4 +14,4 @@ aliases:
 
 
 # Volumes
-- Documents: [[/v1|Version 1]]
+- Documents: [[/v1|Volume 1]]
