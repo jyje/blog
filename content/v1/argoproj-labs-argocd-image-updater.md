@@ -1,5 +1,5 @@
 ---
-title: "Argo CD: Image Updater"
+title: Argo CD Image Updater
 draft: false
 tags:
   - argoproj-labs
@@ -7,7 +7,6 @@ tags:
   - gitops
   - helm
 aliases:
-  - "Argo CD: Image Updater"
   - Argo CD Image Updater
   - Image Updater
   - 이미지 업데이터

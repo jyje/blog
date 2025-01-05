@@ -15,7 +15,7 @@ aliases:
 
 
 # Definition
-- [[k8s|쿠버네티스]]의 워크플로우 엔진
+- [[k8s|쿠버네티스]]의 [[container|컨테이너]] 기반 [[workflow|워크플로우]] 엔진
 
 
 # Objectives 
