@@ -3,6 +3,7 @@ title: Istio
 draft: false
 tags:
   - devops
+  - k8s
 aliases:
   - Istio
   - 이스티오
@@ -45,5 +46,6 @@ aliases:
 # Use Cases
 - 마이크로서비스 아키텍처의 복잡성 관리
 - 서비스 간 통신의 보안 강화
+- 트래픽 모니터링 및 문제 해결
 - A/B 테스팅, 카나리 배포
-- 트래픽 모니터링 및 문제 해결 
+	- [[argo-rollouts|Argo Rollouts]]와 결합하여 고도화된 테스트 및 롤링 업데이트 가능
