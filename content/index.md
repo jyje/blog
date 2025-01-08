@@ -7,9 +7,7 @@ aliases:
 ---
 # 소개
 
-<p align="center">
-  <img src="v1/assets/docs-alpaca-hello-b4566bb74c3d2892.jpg" width="300" height="auto"/>
-</p>
+![[/v1/assets/docs-alpaca-hello-b4566bb74c3d2892.jpg|center|400]]
 
 안녕하세요. 이 사이트는 저의 지식들을 정리하고자 만든 저장소인 **🌿 디지털 가든**입니다. 주로 **👨🏼‍🔬 AI, 🥽 컴퓨터 비전, 🐳 쿠버네티스, 🧑🏼‍💻 데브옵스** 등의 IT 분야를 다룹니다. 그 밖의 유용한 정보도 꾸준히 업데이트할 계획입니다. 여러분에게 도움이 되길 바랍니다. 좋은 하루 되세요! 😊
 
