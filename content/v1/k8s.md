@@ -8,6 +8,7 @@ aliases:
   - Kubernetes
   - k8s
   - 쿠버네티스
+  - 케이츠
 ---
 # Name
 - Kubernetes; 쿠버네티스

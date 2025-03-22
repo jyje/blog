@@ -1,20 +1,20 @@
 ---
-title: Istio
+title: Service Mesh
 draft: false
 tags:
   - devops
   - k8s
 aliases:
-  - Istio
-  - 이스티오
+  - Service Mesh
+  - 서비스 메시
 ---
 
 # Name
-- Istio; 이스티오
+- Service Mesh; 서비스 메시
 
 
 # Definition
-- 마이크로서비스의 통신을 관리하고 제어하는 [[service-mesh|서비스 메시(Service Mesh)]] 구현체
+- 마이크로서비스의 통신을 관리하고 제어하는 가상 서비스(Virtual Service) 구현체
 
 
 # About
@@ -22,7 +22,7 @@ aliases:
 - 깃헙 프로젝트: https://github.com/istio/istio
 - 라이선스: Apache 2.0
 - 초기 개발: Lyft, Google, IBM
-- 소속 기관: CNCF
+- 운영 기관: CNCF
 - 기능
 	- [[k8s|쿠버네티스]] 서비스 간 통신을 관리하고 제어하는 데 필요한 기능을 제공
 	- 트래픽 관리, 보안, 관찰 가능성, 정책 관리 등
@@ -46,6 +46,5 @@ aliases:
 # Use Cases
 - 마이크로서비스 아키텍처의 복잡성 관리
 - 서비스 간 통신의 보안 강화
-- 트래픽 모니터링 및 문제 해결
 - A/B 테스팅, 카나리 배포
-	- [[argo-rollouts|Argo Rollouts]]와 결합하여 고도화된 테스트 및 롤링 업데이트 가능
+- 트래픽 모니터링 및 문제 해결 
