@@ -22,10 +22,9 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      Repository: "https://github.com/jyje/garden", 
-      Bio: "https://jyje.online",
       LinkedIn: "https://www.linkedin.com/in/jyje",
-      GitHub: "https://github.com/jyje",
+      GitHub: "https://github.com/jyje/garden", 
+      Profile: "https://jyje.online",
     },
   }),
 }
