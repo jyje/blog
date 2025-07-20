@@ -29,9 +29,9 @@ tags:
 <div class="portfolio-card">
   <div class="card-header">
     <span class="card-icon">🥧</span>
-    <h3 class="card-title">라즈베리파이 쿠버네티스 클러스터 at Home</h3>
+    <h3 class="card-title">라즈베리파이 쿠버네티스 클러스터</h3>
   </div>
-  <p class="card-subtitle">라즈베리파이를 이용한 홈 클러스터 프로젝트 - GPU 노드 포함 하이브리드 환경</p>
+  <p class="card-subtitle">라즈베리파이를 이용한 홈 클러스터 프로젝트 - GPU 노드 포함 프로덕션 환경</p>
   <div class="project-location">🏠 at Home</div>
   
   #raspberry-pi #kubernetes #microk8s #geforce-rtx #ubuntu-server #arm64
@@ -43,6 +43,7 @@ tags:
       <li>🤖 <strong>AI/ML 워크로드</strong> 지원하는 GPU 노드 통합</li>
       <li>⚡ <strong>ARM64 환경</strong> 최적화 및 24/7 안정 운영</li>
       <li>🔄 <strong>기술 실험 플랫폼</strong>으로 지속적 학습 환경 확보</li>
+      <li>⛱️ <strong>여름에는 기술 실험 플랫폼</strong>으로 지속적 학습 환경 확보</li>
     </ul>
   </div>
   
