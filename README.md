@@ -1,8 +1,8 @@
 # docs
 
-<!-- <p align="center">
-  <img src="content/v1/assets/docs-alpaca-hello-b4566bb74c3d2892.jpg" width="300" height="auto"/>
-</p> -->
+<p align="center">
+  <img src="content/assets/45bfbdc3-16f4-4c09-bb67-a42750fac2d3.png" height="auto"/>
+</p>
 
 Please check [here](https://blog.jyje.online)
 
