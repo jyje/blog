@@ -10,9 +10,5 @@ aliases:
   - jyje
 ---
 # About
-- Jeayoung Jeon (전제영); MLOps/DevOps Engineer
+- Jeayoung Jeon (전제영); AI/MLOps/DevOps Engineer
 - Info: https://bento.me/jyje
-
-
-# Volumes
-- Documents: [[/v1|Volume 1]]

@@ -11,5 +11,8 @@ Please check [here](https://garden.jyje.online)
 To run the site locally, you can use the following command:
 
 ```bash
+nvm install 22
+npm install
+npm audit fix
 npx quartz build --serve --port 7777
 ```
