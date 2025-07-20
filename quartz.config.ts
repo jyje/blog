@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 docs.jyje.online",
-    pageTitleSuffix: " | docs.jyje.online",
+    pageTitle: "🪴 garden.jyje.online",
+    pageTitleSuffix: " | garden.jyje.online",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "docs.jyje.online",
+    baseUrl: "garden.jyje.online",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
