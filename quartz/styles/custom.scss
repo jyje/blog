@@ -97,6 +97,22 @@ margin-top: 2px;
     margin-bottom: 1rem;
   }
 
+  [saved-theme="dark"] .project-location,
+  html[data-theme="dark"] .project-location,
+  .darkmode .project-location {
+    background: transparent;
+    border: 1px solid #ff8fb3;
+    color: var(--darkgray);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .project-location {
+      background: transparent;
+      border: 1px solid #ff8fb3;
+      color: var(--darkgray);
+    }
+  }
+
   .card-tech-stack {
     display: flex;
     flex-wrap: wrap;

@@ -42,11 +42,11 @@ tags:
       <li>🏠 <strong>4+1 노드 클러스터</strong> 구축 (라즈베리파이 🥧🥧🥧🥧 + GPU 🤖)</li>
       <li>🤖 <strong>AI/ML 워크로드</strong> 지원하는 GPU 노드 통합</li>
       <li>⚡ <strong>ARM64 환경</strong> 최적화 및 24/7 안정 운영</li>
-      <li>🔄 <strong>기술 실험 플랫폼</strong>으로 지속적 학습 환경 제공</li>
+      <li>🔄 <strong>기술 실험 플랫폼</strong>으로 지속적 학습 환경 확보</li>
     </ul>
   </div>
   
-  <a href="/portfolio/raspberry-pi-k8s-homelab" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/raspberry-pi-k8s-homelab" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -69,7 +69,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/widearth-ar-platform" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/widearth-ar-platform" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -92,7 +92,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/mlops-onpremise-platform" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/mlops-onpremise-platform" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -115,7 +115,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/devops-hybrid-cluster" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/devops-hybrid-cluster" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 </div>
@@ -146,7 +146,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/argo-capa-certification" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/argo-capa-certification" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -169,7 +169,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/microk8s-cluster-setup" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/microk8s-cluster-setup" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -192,7 +192,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/kubespray-docker-guide" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/kubespray-docker-guide" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 <div class="portfolio-card">
@@ -215,7 +215,7 @@ tags:
     </ul>
   </div>
   
-  <a href="/portfolio/raspberry-pi-setup" class="card-link">🔍 자세히 보기 →</a>
+  <a href="/portfolio/raspberry-pi-setup" class="card-link">🔍 자세히 보기 → (SOON)</a>
 </div>
 
 </div>
