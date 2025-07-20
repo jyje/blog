@@ -14,3 +14,160 @@ margin-left: 1rem;
 margin-bottom: 2px;
 margin-top: 2px;
 }
+
+// Portfolio Gallery Styles
+.portfolio-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+}
+
+.portfolio-card {
+  border: 2px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, var(--light) 0%, color-mix(in srgb, var(--light) 95%, var(--secondary)) 100%);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    border-color: var(--secondary);
+  }
+
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--secondary), var(--tertiary));
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  &:hover::before {
+    opacity: 1;
+  }
+
+  .card-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 1rem;
+
+    .card-icon {
+      font-size: 2rem;
+      margin-right: 0.5rem;
+    }
+
+    .card-title {
+      color: var(--dark);
+      font-size: 1.3rem;
+      font-weight: 600;
+      margin: 0;
+    }
+  }
+
+  .card-subtitle {
+    color: var(--darkgray);
+    font-size: 0.95rem;
+    font-style: italic;
+    margin-bottom: 0.5rem;
+    opacity: 0.8;
+  }
+
+  .project-location {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--secondary), var(--tertiary));
+    color: var(--light);
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    margin-bottom: 1rem;
+  }
+
+  .card-tech-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-bottom: 1rem;
+
+    .tech-tag {
+      background: var(--highlight);
+      color: var(--secondary);
+      padding: 0.2rem 0.6rem;
+      border-radius: 20px;
+      font-size: 0.75rem;
+      font-weight: 500;
+      border: 1px solid color-mix(in srgb, var(--secondary) 30%, transparent);
+    }
+  }
+
+  .card-achievements {
+    margin-bottom: 1.2rem;
+
+    ul {
+      margin: 0.5rem 0;
+      padding-left: 1rem;
+    }
+
+    li {
+      margin-bottom: 0.3rem;
+      font-size: 0.9rem;
+      
+      strong {
+        color: var(--tertiary);
+      }
+    }
+  }
+
+  .card-link {
+    display: inline-flex;
+    align-items: center;
+    background: var(--secondary);
+    color: var(--light) !important;
+    padding: 0.6rem 1.2rem;
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    
+    &:hover {
+      background: var(--tertiary);
+      transform: translateX(2px);
+    }
+  }
+}
+
+// Callout Gallery Styles (for callout approach)
+.callout-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  margin: 2rem 0;
+
+  .callout {
+    margin-bottom: 0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+    }
+  }
+
+  @media (max-width: 800px) {
+    grid-template-columns: 1fr;
+  }
+}
