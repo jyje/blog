@@ -21,7 +21,7 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.poweredBy}{" "}
           <a href="https://quartz.jzhao.xyz">Quartz v{version}</a>
           {" and  "}
-          <a href="https://github.com/jyje/garden">GitHub Pages</a>
+          <a href="https://github.com/jyje/blog">GitHub Pages</a>
           {" with ♥️."}
         </p>
         <ul>

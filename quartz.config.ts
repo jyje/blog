@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 jyje",
-    pageTitleSuffix: " | garden.jyje.online",
+    pageTitleSuffix: " | blog.jyje.online",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "garden.jyje.online",
+    baseUrl: "blog.jyje.online",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
