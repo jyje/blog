@@ -16,7 +16,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://jyje.live">jyje.live</a>
+          <a href="https://jyje.online">jyje.online</a>
           {" © "}{beginYear}-{year}{". "}
           {i18n(cfg.locale).components.footer.poweredBy}{" "}
           <a href="https://quartz.jzhao.xyz">Quartz v{version}</a>

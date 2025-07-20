@@ -24,7 +24,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       Repository: "https://github.com/jyje/docs",
       License: "https://github.com/jyje/docs/blob/main/LICENSE.txt", 
-      Bio: "https://jyje.live",
+      Bio: "https://jyje.online",
       LinkedIn: "https://www.linkedin.com/in/jyje",
       GitHub: "https://github.com/jyje",
     },
