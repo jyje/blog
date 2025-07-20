@@ -11,4 +11,5 @@ aliases:
 ---
 # About
 - Jeayoung Jeon (전제영); AI/MLOps/DevOps Engineer
-- Info: https://bento.me/jyje
+- 💼 Profile: https://jyje.online
+- 🍱 Bento: https://bento.me/jyje
