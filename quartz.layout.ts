@@ -9,7 +9,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.Comments({
       provider: 'giscus',
       options: {
-        repo: 'jyje/docs',
+        repo: 'jyje/garden',
         repoId: 'R_kgDOLUNG6Q',
         category: 'Comments',
         categoryId: 'DIC_kwDOLUNG6c4CjAwe',
@@ -22,8 +22,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      Repository: "https://github.com/jyje/docs",
-      License: "https://github.com/jyje/docs/blob/main/LICENSE.txt", 
+      Repository: "https://github.com/jyje/garden", 
       Bio: "https://jyje.online",
       LinkedIn: "https://www.linkedin.com/in/jyje",
       GitHub: "https://github.com/jyje",
