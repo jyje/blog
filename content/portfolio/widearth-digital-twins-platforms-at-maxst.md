@@ -13,11 +13,8 @@ tags:
   - aws
   - hybrid-cloud
 aliases:
-  - 포트폴리오
-  - portfolio
   - widearth
-  - 디지털트윈
-  - AR플랫폼
+  - 와이더스
 ---
 
 > **"실공간 기반 AR 및 디지털트윈 서비스를 위한 완전 관리형 플랫폼"**  
