@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: 📝 Posts
 draft: false
 tags:
   - posts
