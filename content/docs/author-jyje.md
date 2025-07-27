@@ -13,7 +13,6 @@ aliases:
 - 🇰🇷 전제영; 🇬🇧 Jeayoung Jeon; 🧑‍💻 AI/MLOps/DevOps Engineer
 - 💼 Profile: https://jyje.online
 - 🔗 LinkedIn: https://linkedin.com/in/jyje
-- 🍱 Bento: https://bento.me/jyje
 
 ## 🧑‍💻 간단한 소개
 MLOps/DevOps 엔지니어 [전제영](/docs/author-jyje)입니다. 고성능/고효율의 AI 서비스와 인프라를 연구하며, 빠른 혁신과 효과적인 상품 개발을 위해 힘쓰고 있습니다. 저는 다음의 전문성을 가지고 있습니다:
