@@ -1,13 +1,16 @@
 ---
 title: Portfolio
 draft: false
-description: "MLOps/DevOps Engineer 전제영의 포트폴리오 - AI 서비스와 인프라 전문"
+description: MLOps/DevOps Engineer 전제영의 포트폴리오 - AI 서비스와 인프라 전문
 tags:
-- portfolio
-- mlops
-- devops
-- kubernetes
-- ai
+  - portfolio
+  - mlops
+  - devops
+  - kubernetes
+  - ai
+aliases:
+  - 포트폴리오
+  - portfolio
 ---
 
 # 🎯 포트폴리오

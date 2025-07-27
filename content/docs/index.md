@@ -7,6 +7,8 @@ tags:
   - ai
   - cv
 aliases:
+  - 문서
+  - docs
 ---
 # About
 - [[k8s|쿠버네티스]] 기반의 [[cncf|클라우드 네이티브]] 지식
