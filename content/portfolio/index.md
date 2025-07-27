@@ -18,68 +18,92 @@ aliases:
 
 안녕하세요. 소프트웨어 엔지니어 [[author-jyje|전제영]]입니다. 제가 경험한 프로젝트들을 소개합니다.
 
-## 🚀 주요 프로젝트
+## 🚀 프로젝트 타임라인
 
-<div class="portfolio-gallery">
+<div class="portfolio-timeline">
 
-<div class="portfolio-card">
-  <div class="card-header">
-    <span class="card-icon">🥧</span>
-    <h3 class="card-title">라즈베리파이 쿠버네티스 클러스터</h3>
+<div class="portfolio-timeline-item">
+  <div class="portfolio-timeline-date">
+    <span class="year">2024</span>
+    <span class="period">Nov - Current</span>
   </div>
-  <p class="card-subtitle">라즈베리파이를 이용한 홈 클러스터 프로젝트 - GPU 노드 포함 프로덕션 환경</p>
-  <div class="project-location">🏠 at Home</div>
-  
-  #raspberry-pi #kubernetes #microk8s #geforce-rtx #ubuntu-server #arm64
-  
-  <div class="card-achievements">
+  <div class="portfolio-timeline-content">
+    <h3><a href="/portfolio/raspberry-pi-k8s-homelab">🥧 라즈베리파이 쿠버네티스 클러스터</a> <span class="portfolio-project-status current">🟢 진행중</span></h3>
+    <p>라즈베리파이를 이용한 홈 클러스터 프로젝트 - GPU 노드 포함 프로덕션 환경</p>
+    <div class="portfolio-project-location">🏠 at Home</div>
+    
+  <div class="portfolio-achievements">
     <strong>주요 성과:</strong>
     <ul>
       <li>🏠 <strong>4+1 노드 클러스터</strong> 구축 (라즈베리파이 🥧🥧🥧🥧 + GPU 🤖)</li>
       <li>🤖 <strong>AI/ML 워크로드</strong> 지원하는 GPU 노드 통합</li>
       <li>⚡ <strong>ARM64 환경</strong> 최적화 및 24/7 안정 운영</li>
       <li>🔄 <strong>기술 실험 플랫폼</strong>으로 지속적 학습 환경 확보</li>
-      <li>⛱️ <strong>여름에는 기술 실험 플랫폼</strong>으로 지속적 학습 환경 확보</li>
     </ul>
   </div>
-  
-  <a href="/portfolio/raspberry-pi-k8s-homelab" class="card-link">🔍 자세히 보기 → (SOON)</a>
+
+  <div class="portfolio-tech-stack">
+    <strong>기술 스택:</strong>
+    <ul class="tags">
+      <li><a href="/tags/raspberry-pi" class="internal tag-link">raspberry-pi</a></li>
+      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
+      <li><a href="/tags/microk8s" class="internal tag-link">microk8s</a></li>
+      <li><a href="/tags/geforce-rtx" class="internal tag-link">geforce-rtx</a></li>
+      <li><a href="/tags/ubuntu-server" class="internal tag-link">ubuntu-server</a></li>
+      <li><a href="/tags/arm64" class="internal tag-link">arm64</a></li>
+    </ul>
+  </div>
+  </div>
 </div>
 
-<div class="portfolio-card">
-  <div class="card-header">
-    <span class="card-icon">🌍</span>
-    <h3 class="card-title">Widearth: AR & 디지털트윈 플랫폼</h3>
+<div class="portfolio-timeline-item">
+  <div class="portfolio-timeline-date">
+    <span class="year">2024</span>
+    <span class="period">Jan - Oct</span>
   </div>
-  <p class="card-subtitle">AR 기술과 디지털트윈을 활용한 실시간 공간 정보 플랫폼</p>
-  <div class="project-location">🏢 at MAXST</div>
-  
-  #ar #digital-twin #unity #kubernetes #webrtc #real-time-processing
-  
-  <div class="card-achievements">
+  <div class="portfolio-timeline-content">
+    <h3><a href="/portfolio/widearth-digital-twins-platforms-at-maxst">🌍 Widearth: AR & 디지털트윈 플랫폼</a> <span class="portfolio-project-status completed">✅ 완료</span></h3>
+    <p>실공간 기반 AR 및 디지털트윈 서비스를 위한 완전 관리형 플랫폼</p>
+    <div class="portfolio-project-location">🏢 at MAXST</div>
+    <div class="portfolio-project-role">👨‍💼 Lead ML/Infra Engineer (기여도 75%)</div>
+    
+  <div class="portfolio-achievements">
     <strong>주요 성과:</strong>
     <ul>
-      <li>🎯 <strong>AR 공간 매핑</strong> 정확도 향상 및 실시간 처리</li>
-      <li>🔄 <strong>디지털트윈 동기화</strong> 시스템 구축</li>
-      <li>📱 <strong>모바일-웹 크로스플랫폼</strong> 솔루션 개발</li>
-      <li>⚡ <strong>대용량 3D 데이터</strong> 실시간 스트리밍 최적화</li>
+      <li>💰 <strong>비용 70% 절감</strong> (1.5억원) 하이브리드 클라우드 전략</li>
+      <li>📊 <strong>300+ 공간 맵</strong> 생산하는 ML 파이프라인 구축</li>
+      <li>🔧 <strong>연간 96% 가용성</strong> 달성하는 고가용성 시스템</li>
+      <li>🚀 <strong>15명 팀 플랫폼 론칭</strong> 성공적 완료</li>
     </ul>
   </div>
-  
-  <a href="/portfolio/widearth-ar-platform" class="card-link">🔍 자세히 보기 → (SOON)</a>
+
+  <div class="portfolio-tech-stack">
+    <strong>기술 스택:</strong>
+    <ul class="tags">
+      <li><a href="/tags/ar" class="internal tag-link">ar</a></li>
+      <li><a href="/tags/digital-twin" class="internal tag-link">digital-twin</a></li>
+      <li><a href="/tags/aws-eks" class="internal tag-link">aws-eks</a></li>
+      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
+      <li><a href="/tags/mlops" class="internal tag-link">mlops</a></li>
+      <li><a href="/tags/hybrid-cloud" class="internal tag-link">hybrid-cloud</a></li>
+      <li><a href="/tags/fastapi" class="internal tag-link">fastapi</a></li>
+    </ul>
+  </div>
+  </div>
 </div>
 
-<div class="portfolio-card">
-  <div class="card-header">
-    <span class="card-icon">🤖</span>
-    <h3 class="card-title">MLOps: 온프레미스 AI 플랫폼</h3>
+<div class="portfolio-timeline-item">
+  <div class="portfolio-timeline-date">
+    <span class="year">2024</span>
+    <span class="period">Jan - Oct</span>
   </div>
-  <p class="card-subtitle">엔터프라이즈 환경을 위한 온프레미스 ML 워크플로우 플랫폼</p>
-  <div class="project-location">🏢 at MAXST</div>
-  
-  #mlops #kubeflow #docker #kubernetes #python #tensorflow
-  
-  <div class="card-achievements">
+  <div class="portfolio-timeline-content">
+    <h3><a href="/portfolio/mlops-onpremise-platform">🤖 MLOps: 온프레미스 AI 플랫폼</a> <span class="portfolio-project-status completed">✅ 완료</span></h3>
+    <p>엔터프라이즈 환경을 위한 온프레미스 ML 워크플로우 플랫폼</p>
+    <div class="portfolio-project-location">🏢 at MAXST</div>
+    <div class="portfolio-project-role">👨‍💼 MLOps/DevOps Engineer</div>
+    
+  <div class="portfolio-achievements">
     <strong>주요 성과:</strong>
     <ul>
       <li>🔄 <strong>완전 자동화된 ML 파이프라인</strong> 구축</li>
@@ -88,8 +112,22 @@ aliases:
       <li>🔒 <strong>온프레미스 보안</strong> 요구사항 만족</li>
     </ul>
   </div>
-  
-  <a href="/portfolio/mlops-onpremise-platform" class="card-link">🔍 자세히 보기 → (SOON)</a>
+
+  <div class="portfolio-tech-stack">
+    <strong>기술 스택:</strong>
+    <ul class="tags">
+      <li><a href="/tags/mlops" class="internal tag-link">mlops</a></li>
+      <li><a href="/tags/argo-workflows" class="internal tag-link">argo-workflows</a></li>
+      <li><a href="/tags/docker" class="internal tag-link">docker</a></li>
+      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
+      <li><a href="/tags/python" class="internal tag-link">python</a></li>
+      <li><a href="/tags/tensorflow" class="internal tag-link">tensorflow</a></li>
+      <li><a href="/tags/on-premise" class="internal tag-link">on-premise</a></li>
+    </ul>
+  </div>
+  </div>
 </div>
 
 </div>
+
+
