@@ -45,12 +45,12 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li><a href="/tags/raspberry-pi" class="internal tag-link">raspberry-pi</a></li>
-      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
-      <li><a href="/tags/microk8s" class="internal tag-link">microk8s</a></li>
-      <li><a href="/tags/geforce-rtx" class="internal tag-link">geforce-rtx</a></li>
-      <li><a href="/tags/ubuntu-server" class="internal tag-link">ubuntu-server</a></li>
-      <li><a href="/tags/arm64" class="internal tag-link">arm64</a></li>
+      <li>raspberry-pi</li>
+      <li><a href="/docs/k8s" class="internal">k8s</a></li>
+      <li><a href="/docs/microk8s" class="internal">microk8s</a></li>
+      <li>geforce-rtx</li>
+      <li>ubuntu-server</li>
+      <li>arm64</li>
     </ul>
   </div>
   </div>
@@ -80,13 +80,13 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li><a href="/tags/ar" class="internal tag-link">ar</a></li>
-      <li><a href="/tags/digital-twin" class="internal tag-link">digital-twin</a></li>
-      <li><a href="/tags/aws-eks" class="internal tag-link">aws-eks</a></li>
-      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
-      <li><a href="/tags/mlops" class="internal tag-link">mlops</a></li>
-      <li><a href="/tags/hybrid-cloud" class="internal tag-link">hybrid-cloud</a></li>
-      <li><a href="/tags/fastapi" class="internal tag-link">fastapi</a></li>
+      <li>ar</li>
+      <li>digital-twin</li>
+      <li>aws-eks</li>
+      <li><a href="/docs/k8s" class="internal">k8s</a></li>
+      <li>mlops</li>
+      <li>hybrid-cloud</li>
+      <li>fastapi</li>
     </ul>
   </div>
   </div>
@@ -116,13 +116,13 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li><a href="/tags/mlops" class="internal tag-link">mlops</a></li>
-      <li><a href="/tags/argo-workflows" class="internal tag-link">argo-workflows</a></li>
-      <li><a href="/tags/docker" class="internal tag-link">docker</a></li>
-      <li><a href="/tags/kubernetes" class="internal tag-link">kubernetes</a></li>
-      <li><a href="/tags/python" class="internal tag-link">python</a></li>
-      <li><a href="/tags/tensorflow" class="internal tag-link">tensorflow</a></li>
-      <li><a href="/tags/on-premise" class="internal tag-link">on-premise</a></li>
+      <li>mlops</li>
+      <li><a href="/docs/argo-workflows" class="internal">argo-workflows</a></li>
+      <li><a href="/docs/docker" class="internal">docker</a></li>
+      <li><a href="/docs/k8s" class="internal">k8s</a></li>
+      <li>python</li>
+      <li>tensorflow</li>
+      <li>on-premise</li>
     </ul>
   </div>
   </div>
