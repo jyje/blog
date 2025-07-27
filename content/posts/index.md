@@ -1,11 +1,10 @@
 ---
-title: Blog
+title: Posts
 draft: false
 tags:
-  - blog
+  - posts
 aliases:
 ---
-# About
 - 저의 블로그 글들을 모아둔 곳입니다.
 
 # Authors
