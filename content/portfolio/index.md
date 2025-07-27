@@ -45,12 +45,12 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li>raspberry-pi</li>
+      <li><a href="/docs/raspberry-pi" class="internal">raspberry-pi</a></li>
       <li><a href="/docs/k8s" class="internal">k8s</a></li>
       <li><a href="/docs/microk8s" class="internal">microk8s</a></li>
-      <li>geforce-rtx</li>
-      <li>ubuntu-server</li>
-      <li>arm64</li>
+      <li><a href="/docs/geforce-rtx" class="internal">geforce-rtx</a></li>
+      <li><a href="/docs/ubuntu-server" class="internal">ubuntu-server</a></li>
+      <li><a href="/docs/arm64" class="internal">arm64</a></li>
     </ul>
   </div>
   </div>
@@ -80,13 +80,13 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li>ar</li>
-      <li>digital-twin</li>
-      <li>aws-eks</li>
+      <li><a href="/docs/ar" class="internal">ar</a></li>
+      <li><a href="/docs/digital-twin" class="internal">digital-twin</a></li>
+      <li><a href="/docs/aws-eks" class="internal">aws-eks</a></li>
       <li><a href="/docs/k8s" class="internal">k8s</a></li>
-      <li>mlops</li>
-      <li>hybrid-cloud</li>
-      <li>fastapi</li>
+      <li><a href="/docs/mlops" class="internal">mlops</a></li>
+      <li><a href="/docs/hybrid-cloud" class="internal">hybrid-cloud</a></li>
+      <li><a href="/docs/fastapi" class="internal">fastapi</a></li>
     </ul>
   </div>
   </div>
@@ -116,13 +116,13 @@ aliases:
   <div class="portfolio-tech-stack">
     <strong>기술 스택:</strong>
     <ul class="tags">
-      <li>mlops</li>
+      <li><a href="/docs/mlops" class="internal">mlops</a></li>
       <li><a href="/docs/argo-workflows" class="internal">argo-workflows</a></li>
       <li><a href="/docs/docker" class="internal">docker</a></li>
       <li><a href="/docs/k8s" class="internal">k8s</a></li>
-      <li>python</li>
-      <li>tensorflow</li>
-      <li>on-premise</li>
+      <li><a href="/docs/python" class="internal">python</a></li>
+      <li><a href="/docs/tensorflow" class="internal">tensorflow</a></li>
+      <li><a href="/docs/on-premise" class="internal">on-premise</a></li>
     </ul>
   </div>
   </div>
