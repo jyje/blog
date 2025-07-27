@@ -25,7 +25,7 @@ aliases:
 <div class="portfolio-timeline-item">
   <div class="portfolio-timeline-date">
     <span class="year">2024</span>
-    <span class="period">Nov - Current</span>
+    <span class="period">11월 - 진행 중</span>
   </div>
   <div class="portfolio-timeline-content">
     <h3><a href="/portfolio/raspberry-pi-k8s-homelab">🥧 라즈베리파이 쿠버네티스 클러스터</a> <span class="portfolio-project-status current">🟢 진행중</span></h3>
@@ -59,7 +59,7 @@ aliases:
 <div class="portfolio-timeline-item">
   <div class="portfolio-timeline-date">
     <span class="year">2024</span>
-    <span class="period">Jan - Oct</span>
+    <span class="period">1월 - 10월<br/>10개월</span>
   </div>
   <div class="portfolio-timeline-content">
     <h3><a href="/portfolio/widearth-digital-twins-platforms-at-maxst">🌍 Widearth: AR & 디지털트윈 플랫폼</a> <span class="portfolio-project-status completed">✅ 완료</span></h3>
@@ -95,7 +95,7 @@ aliases:
 <div class="portfolio-timeline-item">
   <div class="portfolio-timeline-date">
     <span class="year">2024</span>
-    <span class="period">Jan - Oct</span>
+    <span class="period">1월 - 10월<br/>10개월</span>
   </div>
   <div class="portfolio-timeline-content">
     <h3><a href="/portfolio/mlops-onpremise-platform">🤖 MLOps: 온프레미스 AI 플랫폼</a> <span class="portfolio-project-status completed">✅ 완료</span></h3>
