@@ -19,6 +19,9 @@ export const sharedPageComponents: SharedLayout = {
         inputPosition: 'top',
       },
     }),
+    Component.ChannelTalk({
+      pluginKey: "e99f88b7-5722-4f32-8771-08cff75455ee",
+    }),
   ],
   footer: Component.Footer({
     links: {
