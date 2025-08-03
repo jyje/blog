@@ -21,6 +21,7 @@ export const sharedPageComponents: SharedLayout = {
     }),
     Component.ChannelTalk({
       pluginKey: "e99f88b7-5722-4f32-8771-08cff75455ee",
+      language: "ko", // "en", "ko", "ja"
     }),
   ],
   footer: Component.Footer({

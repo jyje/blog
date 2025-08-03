@@ -2,6 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 
 type Options = {
   pluginKey: string
+  language: string
 }
 
 export default ((opts: Options) => {
@@ -10,7 +11,7 @@ export default ((opts: Options) => {
   }
 
   ChannelTalk.afterDOMLoaded = `
-    // 채널톡 스크립트 로더
+    // ChannelTalk script loader
     (function(){
       var w=window;
       if(w.ChannelIO){
@@ -48,15 +49,16 @@ export default ((opts: Options) => {
       }
     })();
 
-    // 채널톡 부팅
+    // ChannelTalk boot
     ChannelIO('boot', {
-      "pluginKey": "${opts.pluginKey}"
+      "pluginKey": "${opts.pluginKey}",
+      "language": "${opts.language}"
     });
 
-    // SPA 네비게이션 시에도 채널톡이 정상 작동하도록 보장
+    // Ensure ChannelTalk works properly during SPA navigation
     document.addEventListener("nav", () => {
-      // 페이지 변경 시 채널톡 재초기화는 필요 없음
-      // 채널톡은 SPA에서도 지속적으로 작동함
+      // No need to reinitialize ChannelTalk on page changes
+      // ChannelTalk works continuously in SPA
     });
   `
 
