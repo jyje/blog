@@ -15,7 +15,7 @@ export default {
       success: "Erfolg",
       question: "Frage",
       warning: "Warnung",
-      failure: "Misserfolg",
+      failure: "Fehlgeschlagen",
       danger: "Gefahr",
       bug: "Fehler",
       example: "Beispiel",
@@ -58,7 +58,7 @@ export default {
       title: "Inhaltsverzeichnis",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `${minutes} Min. Lesezeit`,
     },
   },
   pages: {
@@ -69,7 +69,7 @@ export default {
     error: {
       title: "Nicht gefunden",
       notFound: "Diese Seite ist entweder nicht öffentlich oder existiert nicht.",
-      home: "Return to Homepage",
+      home: "Zur Startseite",
     },
     folderContent: {
       folder: "Ordner",
